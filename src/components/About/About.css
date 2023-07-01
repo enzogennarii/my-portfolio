@@ -1,0 +1,38 @@
+.section-about, .section-about * {
+  border: 1px solid red;
+}
+
+.section-about {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.content-about {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 80%;
+  justify-content: space-between;
+  max-width: 900px;
+  width: 80%;
+}
+
+.main-content-about {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.skill-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  list-style: none;
+}

@@ -12,6 +12,8 @@
 }
 
 .content-home {
+  height: 80%;
+  width: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,7 +21,6 @@
 }
 
 .main-content {
-  width: 70%;
   display: flex;
   justify-content: space-around;
 }
@@ -41,5 +42,4 @@
   display: flex;
   justify-content: space-around;
   min-width: 300px;
-
 }
