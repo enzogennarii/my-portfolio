@@ -1,0 +1,45 @@
+.section-home, .section-home * {
+  border: 1px solid blue
+}
+
+.section-home {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  min-height: calc(100vh - 50px);
+  min-width: 100vw;
+}
+
+.content-home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.main-content {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.title-page {
+  margin: auto;
+}
+
+.avatar {
+  border-radius: 50%;
+  border: 2px solid #343233;
+  width: 35%;
+  max-width: 450px;
+  min-width: 225px;
+}
+
+.social-medias {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  min-width: 300px;
+
+}

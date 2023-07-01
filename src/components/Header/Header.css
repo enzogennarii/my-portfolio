@@ -1,0 +1,22 @@
+.header-container {
+  align-items: center;
+  border-bottom: 1px solid #343233;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0 30px 0 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.navegation a {
+  text-decoration: none;
+}
+
+.nav-list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
