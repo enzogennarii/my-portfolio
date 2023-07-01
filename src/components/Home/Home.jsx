@@ -26,12 +26,4 @@ function Home() {
   );
 }
 
-
-{/* <p>&nbsp;&nbsp;Comecei na área da programação muito recentemente, esse Portfólio vai receber muitas atualizações
-  ao longo do tempo. Atualmente está em manutenção!</p>
-<div class="btns-home-page">
-  <button id="btn-linkedin">Linkedin</button>
-  <button>GitHub</button>
-</div> */}
-
 export default Home;
